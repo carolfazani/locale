@@ -1,0 +1,504 @@
+	duplicated	uf	coduf	codmun	name	população
+57	True	PB	25	502	Alagoinha	14.629
+58	True	PE	26	609	Alagoinha	14.798
+107	True	RS	43	554	Alto Alegre	1.59
+108	True	RR	14	50	Alto Alegre	15.249
+109	True	SP	35	1103	Alto Alegre	4.078
+124	True	PR	41	28625	Alto Paraíso	2.63
+125	True	RO	11	00403	Alto Paraíso	22.258
+141	True	TO	17	707	Alvorada	8.381
+142	True	RS	43	604	Alvorada	212.352
+166	True	PB	25	734	Amparo	2.264
+167	True	SP	35	1905	Amparo	73.145
+188	True	ES	32	409	Anchieta	30.285
+189	True	SC	42	804	Anchieta	5.477
+221	True	SC	42	1208	Antônio Carlos	8.712
+222	True	MG	31	2902	Antônio Carlos	11.471
+232	True	PB	25	775	Aparecida	8.482
+233	True	SP	35	2507	Aparecida	36.211
+269	True	MA	21	873	Araguanã	15.675
+270	True	TO	17	2158	Araguanã	5.856
+305	True	PR	41	1705	Araruna	14.029
+306	True	PB	25	1005	Araruna	20.61
+332	True	SE	28	506	Areia Branca	18.825
+333	True	RN	24	1107	Areia Branca	28.156
+380	True	AL	27	409	Atalaia	47.54
+381	True	PR	41	2208	Atalaia	3.871
+394	True	CE	23	1703	Aurora	24.567
+395	True	SC	42	1901	Aurora	5.687
+444	True	PR	41	2406	Bandeirantes	31.061
+445	True	MS	50	1508	Bandeirantes	7.281
+449	True	RN	24	1453	Baraúna	29.112
+450	True	PB	25	1534	Baraúna	5.033
+460	True	SC	42	2099	Barra Bonita	1.625
+461	True	SP	35	5302	Barra Bonita	36.125
+473	True	AL	27	607	Barra de São Miguel	8.434
+474	True	PB	25	1708	Barra de São Miguel	6.095
+491	True	PR	41	2604	Barracão	10.347
+492	True	RS	43	1800	Barracão	5.237
+503	True	GO	52	3203	Barro Alto	11.643
+504	True	BA	29	3235	Barro Alto	15.171
+523	True	PI	22	1507	Batalha	26.951
+524	True	AL	27	706	Batalha	18.44
+545	True	SC	42	2156	Belmonte	2.712
+546	True	BA	29	3409	Belmonte	23.54
+555	True	PB	25	1906	Belém	17.733
+556	True	AL	27	805	Belém	4.226
+557	True	PA	15	1402	Belém	1.506.420
+596	True	MG	31	7109	Boa Esperança	40.308
+597	True	PR	41	3008	Boa Esperança	3.991
+598	True	ES	32	1001	Boa Esperança	15.146
+606	True	RR	14	100	Boa Vista	436.591
+607	True	PB	25	2151	Boa Vista	7.218
+619	True	SP	35	6805	Bocaina	12.571
+620	True	PI	22	1804	Bocaina	4.509
+632	True	PE	26	2209	Bom Jardim	40.038
+633	True	MA	21	2002	Bom Jardim	42.01
+634	True	RJ	33	506	Bom Jardim	27.779
+638	True	PB	25	2201	Bom Jesus	2.588
+639	True	PI	22	1903	Bom Jesus	25.584
+640	True	RN	24	1701	Bom Jesus	10.323
+641	True	RS	43	2303	Bom Jesus	11.27
+642	True	SC	42	2537	Bom Jesus	3.104
+665	True	PR	41	3206	Bom Sucesso	7.103
+666	True	PB	25	2300	Bom Sucesso	4.937
+667	True	MG	31	8008	Bom Sucesso	17.612
+671	True	MG	31	8107	Bonfim	6.852
+672	True	RR	14	159	Bonfim	12.701
+677	True	PE	26	2308	Bonito	38.101
+678	True	MS	50	2209	Bonito	22.401
+679	True	BA	29	4050	Bonito	16.999
+680	True	PA	15	1600	Bonito	16.769
+691	True	SP	35	7407	Borborema	16.278
+692	True	PB	25	2706	Borborema	5.311
+726	True	RN	24	1800	Brejinho	12.873
+727	True	PE	26	2506	Brejinho	7.489
+774	True	RO	11	00452	Buritis	41.043
+775	True	MG	31	9303	Buritis	25.179
+802	True	GO	52	4250	Cachoeira Dourada	7.997
+803	True	MG	31	9808	Cachoeira Dourada	2.72
+815	True	TO	17	3826	Cachoeirinha	2.293
+816	True	RS	43	3103	Cachoeirinha	132.144
+817	True	PE	26	3108	Cachoeirinha	20.618
+834	True	PR	41	3453	Cafelândia	18.783
+835	True	SP	35	8801	Cafelândia	17.917
+846	True	PB	25	3605	Caiçara	7.182
+847	True	RS	43	3400	Caiçara	4.659
+896	True	MG	31	11002	Campestre	21.052
+897	True	AL	27	1357	Campestre	6.972
+914	True	SC	42	3303	Campo Alegre	11.985
+915	True	AL	27	1407	Campo Alegre	57.997
+927	True	RN	24	1305	Campo Grande	9.686
+928	True	MS	50	2704	Campo Grande	916.001
+929	True	AL	27	1506	Campo Grande	9.576
+963	True	BA	29	6204	Canarana	26.468
+964	True	MT	51	2702	Canarana	22.101
+971	True	MG	31	12000	Candeias	14.89
+972	True	BA	29	6501	Candeias	87.82
+990	True	PR	41	4451	Cantagalo	13.34
+991	True	MG	31	12059	Cantagalo	4.575
+992	True	RJ	33	1108	Cantagalo	20.163
+999	True	BA	29	6105	Canápolis	9.694
+1000	True	MG	31	11804	Canápolis	12.251
+1001	True	PA	15	2202	Capanema	69.828
+1002	True	PR	41	4501	Capanema	19.172
+1004	True	AL	27	1704	Capela	16.907
+1005	True	SE	28	1306	Capela	34.808
+1040	True	MS	50	2803	Caracol	6.247
+1041	True	PI	22	2505	Caracol	11.009
+1056	True	RN	24	2303	Caraúbas	20.588
+1057	True	PB	25	4074	Caraúbas	4.206
+1114	True	PR	41	4808	Cascavel	336.073
+1115	True	CE	23	3501	Cascavel	72.706
+1134	True	SC	42	4004	Catanduvas	11.106
+1135	True	PR	41	5003	Catanduvas	10.144
+1165	True	SP	35	11300	Cedral	9.452
+1166	True	MA	21	3109	Cedral	10.711
+1167	True	CE	23	3808	Cedro	25.612
+1168	True	PE	26	4304	Cedro	11.972
+1172	True	RS	43	5116	Centenário	2.865
+1173	True	TO	17	4105	Centenário	2.966
+1258	True	MA	21	3505	Colinas	41.443
+1259	True	RS	43	5587	Colinas	2.466
+1265	True	RS	43	5603	Colorado	3.088
+1266	True	PR	41	5904	Colorado	24.271
+1304	True	PE	26	4601	Condado	26.755
+1305	True	PB	25	4504	Condado	6.662
+1306	True	BA	29	8606	Conde	26.223
+1307	True	PB	25	4603	Conde	25.341
+1431	True	AC	12	203	Cruzeiro do Sul	89.760
+1432	True	RS	43	6205	Cruzeiro do Sul	12.457
+1433	True	PR	41	6704	Cruzeiro do Sul	4.430
+1498	True	GO	52	6909	Davinópolis	2.094
+1499	True	MA	21	3752	Davinópolis	12.923
+1583	True	PR	41	7256	Douradina	8.988
+1584	True	MS	50	3504	Douradina	6.025
+1610	True	MS	50	3751	Eldorado	12.447
+1611	True	SP	35	14809	Eldorado	15.592
+1636	True	BA	29	10503	Entre Rios	42.014
+1637	True	SC	42	5175	Entre Rios	3.232
+1659	True	TO	17	7405	Esperantina	11.28
+1660	True	PI	22	3701	Esperantina	39.953
+1685	True	SP	35	15301	Estrela do Norte	2.774
+1686	True	GO	52	7501	Estrela do Norte	3.253
+1720	True	PE	26	5400	Feira Nova	22.360
+1721	True	SE	28	2205	Feira Nova	5.617
+1749	True	BA	29	10859	Filadélfia	16.314
+1750	True	TO	17	7702	Filadélfia	8.892
+1763	True	PR	41	7900	Floresta	6.926
+1764	True	PE	26	5707	Floresta	33.488
+1786	True	MG	31	26208	Formoso	9.81
+1787	True	GO	52	8103	Formoso	4.098
+1833	True	BA	29	10750	Fátima	17.801
+1834	True	TO	17	7553	Fátima	3.824
+1861	True	MT	51	3908	General Carneiro	5.726
+1862	True	PR	41	8502	General Carneiro	13.661
+1959	True	SP	35	17901	Guaraci	11.382
+1960	True	PR	41	9203	Guaraci	5.557
+1961	True	SC	42	6405	Guaraciaba	9.964
+1962	True	MG	31	28204	Guaraciaba	10.307
+2001	True	SP	35	17406	Guaíra	41.283
+2002	True	PR	41	8809	Guaíra	33.497
+2025	True	GO	52	9705	Hidrolândia	22.533
+2026	True	CE	23	5209	Hidrolândia	20.126
+2034	True	AM	13	1704	Humaitá	57.195
+2035	True	RS	43	9704	Humaitá	4.712
+2123	True	PR	41	10052	Iguatu	2.251
+2124	True	CE	23	5506	Iguatu	103.633
+2149	True	PR	41	10300	Inajá	3.122
+2150	True	PE	26	7000	Inajá	24.034
+2155	True	CE	23	5605	Independência	26.196
+2156	True	RS	43	10405	Independência	6.054
+2158	True	MG	31	30705	Indianópolis	7.009
+2159	True	PR	41	10409	Indianópolis	4.472
+2212	True	CE	23	5902	Ipueiras	38.064
+2213	True	TO	17	9807	Ipueiras	2.088
+2219	True	RR	14	282	Iracema	12.637
+2220	True	CE	23	6009	Iracema	14.351
+2232	True	PR	41	10706	Irati	61.439
+2233	True	SC	42	7858	Irati	1.887
+2245	True	SE	28	2908	Itabaiana	96.839
+2246	True	PB	25	6905	Itabaiana	24.363
+2291	True	GO	52	10802	Itajá	4.412
+2292	True	RN	24	4853	Itajá	7.641
+2301	True	BA	29	15809	Itambé	22.474
+2302	True	PR	41	11100	Itambé	6.11
+2303	True	PE	26	7653	Itambé	36.495
+2332	True	SP	35	22406	Itapeva	95.241
+2333	True	MG	31	33600	Itapeva	9.976
+2338	True	AM	13	2009	Itapiranga	9.312
+2339	True	SC	42	8401	Itapiranga	17.139
+2346	True	PB	25	7002	Itaporanga	24.96
+2347	True	SP	35	22802	Itaporanga	15.197
+2426	True	SP	35	24204	Jaborandi	6.963
+2427	True	BA	29	17359	Jaborandi	8.176
+2448	True	RS	43	10900	Jacutinga	3.532
+2449	True	MG	31	34905	Jacutinga	26.538
+2474	True	RN	24	5108	Jandaíra	6.907
+2475	True	BA	29	17904	Jandaíra	10.742
+2491	True	PR	41	12405	Japurá	9.573
+2492	True	AM	13	2108	Japurá	1.755
+2499	True	MS	50	5004	Jardim	26.375
+2500	True	CE	23	7106	Jardim	27.187
+2507	True	SP	35	25102	Jardinópolis	45.544
+2508	True	SC	42	8955	Jardinópolis	1.52
+2517	True	MA	21	5450	Jatobá	10.464
+2518	True	PE	26	8057	Jatobá	14.904
+2599	True	RN	24	6155	Jundiá	3.945
+2600	True	AL	27	3908	Jundiá	4.119
+2609	True	PI	22	5532	Jurema	4.79
+2610	True	PE	26	8404	Jurema	15.483
+2618	True	GO	52	12204	Jussara	18.266
+2619	True	BA	29	18506	Jussara	15.241
+2620	True	PR	41	13007	Jussara	7.069
+2648	True	PE	26	8750	Lagoa Grande	26.09
+2649	True	MG	31	37536	Lagoa Grande	9.681
+2654	True	GO	52	12253	Lagoa Santa	1.652
+2655	True	MG	31	37601	Lagoa Santa	66.744
+2684	True	TO	17	12009	Lajeado	3.199
+2685	True	RS	43	11403	Lajeado	86.005
+2704	True	PR	41	13254	Laranjal	5.719
+2705	True	MG	31	38005	Laranjal	6.856
+2890	True	AL	27	4609	Maravilha	8.850
+2891	True	SC	42	10506	Maravilha	26.463
+2948	True	SC	42	10605	Massaranduba	17.33
+2949	True	PB	25	9206	Massaranduba	14.077
+3009	True	MG	31	41702	Mesquita	5.489
+3010	True	RJ	33	2858	Mesquita	177.016
+3019	True	BA	29	21302	Milagres	10.838
+3020	True	CE	23	8302	Milagres	27.413
+3039	True	MA	21	6706	Mirador	21.045
+3040	True	PR	41	15903	Mirador	2.18
+3090	True	PA	15	4802	Monte Alegre	58.289
+3091	True	RN	24	7807	Monte Alegre	22.698
+3106	True	SC	42	11108	Monte Castelo	8.263
+3107	True	SP	35	31605	Monte Castelo	4.166
+3139	True	GO	52	13806	Morrinhos	46.955
+3140	True	CE	23	8906	Morrinhos	22.83
+3169	True	CE	23	9102	Mulungu	11.056
+3170	True	PB	25	9800	Mulungu	9.962
+3172	True	BA	29	22102	Mundo Novo	27.153
+3173	True	GO	52	14051	Mundo Novo	4.54
+3174	True	MS	50	5681	Mundo Novo	18.578
+3204	True	TO	17	14203	Natividade	9.256
+3205	True	RJ	33	3104	Natividade	15.305
+3213	True	BA	29	22508	Nazaré	28.661
+3214	True	TO	17	14302	Nazaré	3.772
+3257	True	PR	41	16703	Nova Aurora	10.131
+3258	True	GO	52	14804	Nova Aurora	2.236
+3285	True	PR	41	17008	Nova Fátima	8.12
+3286	True	BA	29	22730	Nova Fátima	7.83
+3313	True	CE	23	9201	Nova Olinda	15.798
+3314	True	PB	25	10204	Nova Olinda	5.892
+3315	True	TO	17	14880	Nova Olinda	12.014
+3318	True	MT	51	6232	Nova Olímpia	20.82
+3319	True	PR	41	17206	Nova Olímpia	5.846
+3337	True	RS	43	13375	Nova Santa Rita	30.482
+3338	True	PI	22	7959	Nova Santa Rita	4.392
+3346	True	MG	31	36603	Nova União	5.739
+3347	True	RO	11	01435	Nova União	6.822
+3348	True	SC	42	11603	Nova Veneza	15.515
+3349	True	GO	52	15009	Nova Veneza	10.193
+3364	True	BA	29	23035	Novo Horizonte	12.653
+3365	True	SP	35	33502	Novo Horizonte	41.765
+3366	True	SC	42	11652	Novo Horizonte	2.366
+3381	True	PI	22	6951	Novo Santo Antônio	3.014
+3382	True	MT	51	6315	Novo Santo Antônio	2.769
+3441	True	AL	27	6109	Ouro Branco	11.573
+3442	True	MG	31	45901	Ouro Branco	40.22
+3443	True	RN	24	8508	Ouro Branco	4.813
+3448	True	SC	42	11850	Ouro Verde	2.197
+3449	True	SP	35	34807	Ouro Verde	8.676
+3461	True	SE	28	4904	Pacatuba	14.65
+3462	True	CE	23	9706	Pacatuba	85.647
+3479	True	AL	27	6208	Palestina	5.061
+3480	True	SP	35	35002	Palestina	13.285
+3490	True	TO	17	21000	Palmas	313.349
+3491	True	PR	41	17602	Palmas	52.503
+3493	True	SC	42	12056	Palmeira	2.673
+3494	True	PR	41	17701	Palmeira	34.109
+3509	True	SP	35	35309	Palmital	22.322
+3510	True	PR	41	17800	Palmital	12.755
+3561	True	SC	42	12239	Paraíso	3.284
+3562	True	SP	35	35705	Paraíso	6.536
+3580	True	RN	24	3251	Parnamirim	272.49
+3581	True	PE	26	10400	Parnamirim	22.198
+3592	True	RN	24	9209	Passagem	3.114
+3593	True	PB	25	10709	Passagem	2.453
+3616	True	PA	15	5551	Pau D Arco	5.339
+3617	True	TO	17	16307	Pau D Arco	4.885
+3626	True	PE	26	10707	Paulista	336.919
+3627	True	PB	25	10907	Paulista	12.411
+3649	True	CE	23	10506	Pedra Branca	43.359
+3650	True	PB	25	11004	Pedra Branca	3.802
+3656	True	RN	24	9605	Pedra Preta	2.419
+3657	True	MT	51	6372	Pedra Preta	17.547
+3720	True	SC	42	12700	Petrolândia	5.873
+3721	True	PE	26	11002	Petrolândia	37.246
+3737	True	PB	25	11509	Pilar	12.036
+3738	True	AL	27	6901	Pilar	35.31
+3742	True	PB	25	11608	Pilões	6.518
+3743	True	RN	24	10009	Pilões	3.9
+3763	True	SC	42	12908	Pinhalzinho	21.103
+3764	True	SP	35	38204	Pinhalzinho	15.564
+3772	True	SE	28	5208	Pinhão	6.678
+3773	True	PR	41	19301	Pinhão	32.722
+3795	True	AL	27	7107	Piranhas	25.324
+3796	True	GO	52	17203	Piranhas	10.161
+3821	True	PR	41	19657	Pitangueiras	3.298
+3822	True	SP	35	39509	Pitangueiras	40.43
+3834	True	RS	43	14704	Planalto	9.957
+3835	True	PR	41	19806	Planalto	13.385
+3836	True	SP	35	39608	Planalto	5.37
+3837	True	BA	29	25006	Planalto	26.581
+3958	True	SP	35	41000	Praia Grande	336.454
+3959	True	SC	42	13807	Praia Grande	7.305
+3963	True	PB	25	12200	Prata	4.265
+3964	True	MG	31	52808	Prata	28.173
+3970	True	MG	31	53103	Presidente Bernardes	5.315
+3971	True	SP	35	41208	Presidente Bernardes	12.943
+3974	True	MA	21	9106	Presidente Dutra	48.264
+3975	True	BA	29	25600	Presidente Dutra	15.18
+3979	True	MG	31	53202	Presidente Juscelino	3.572
+3980	True	MA	21	9205	Presidente Juscelino	12.939
+3982	True	TO	17	18402	Presidente Kennedy	3.668
+3983	True	ES	32	4302	Presidente Kennedy	11.741
+3986	True	RO	11	00254	Presidente Médici	18.165
+3987	True	MA	21	9239	Presidente Médici	7.124
+3995	True	PE	26	11408	Primavera	15.231
+3996	True	PA	15	6104	Primavera	10.889
+4032	True	BA	29	25808	Queimadas	25.428
+4033	True	PB	25	12507	Queimadas	44.388
+4051	True	PE	26	11533	Quixaba	6.796
+4052	True	PB	25	12606	Quixaba	2.009
+4076	True	CE	23	11603	Redenção	29.238
+4077	True	PA	15	6138	Redenção	86.326
+4100	True	TO	17	18550	Riachinho	4.723
+4101	True	MG	31	54457	Riachinho	8.132
+4105	True	RN	24	10801	Riacho de Santana	4.194
+4106	True	BA	29	26400	Riacho de Santana	35.757
+4110	True	RN	24	10900	Riachuelo	8.31
+4111	True	SE	28	5901	Riachuelo	10.354
+4112	True	MA	21	9502	Riachão	20.288
+4113	True	PB	25	12747	Riachão	3.65
+4154	True	AC	12	401	Rio Branco	419.452
+4155	True	MT	51	7206	Rio Branco	5.147
+4160	True	SP	35	43907	Rio Claro	209.548
+4161	True	RJ	33	4409	Rio Claro	18.677
+4174	True	PR	41	22305	Rio Negro	34.645
+4175	True	MS	50	7307	Rio Negro	4.758
+4255	True	BA	29	27200	Ruy Barbosa	30.900
+4256	True	RN	24	11106	Ruy Barbosa	3.584
+4271	True	PE	26	12109	Salgadinho	11.214
+4272	True	PB	25	13000	Salgadinho	3.975
+4283	True	SC	42	15356	Saltinho	3.727
+4284	True	SP	35	45159	Saltinho	8.498
+4312	True	MG	31	57203	Santa Bárbara	31.873
+4313	True	BA	29	27507	Santa Bárbara	20.971
+4322	True	SC	42	15505	Santa Cecília	17.004
+4323	True	PB	25	13158	Santa Cecília	6.526
+4328	True	RN	24	11205	Santa Cruz	40.295
+4329	True	PB	25	13208	Santa Cruz	6.579
+4330	True	PE	26	12455	Santa Cruz	15.713
+4351	True	PI	22	9203	Santa Filomena	6.256
+4352	True	PE	26	12554	Santa Filomena	14.645
+4360	True	MA	21	9809	Santa Helena	42.829
+4361	True	PR	41	23501	Santa Helena	27.036
+4362	True	SC	42	15554	Santa Helena	2.178
+4363	True	PB	25	13307	Santa Helena	5.853
+4366	True	PR	41	23600	Santa Inês	1.568
+4367	True	MA	21	9908	Santa Inês	89.927
+4368	True	BA	29	27903	Santa Inês	10.583
+4369	True	PB	25	13356	Santa Inês	3.591
+4370	True	GO	52	19357	Santa Isabel	3.821
+4371	True	SP	35	46801	Santa Isabel	58.529
+4379	True	MA	21	10005	Santa Luzia	73.105
+4380	True	MG	31	57807	Santa Luzia	221.705
+4381	True	PB	25	13406	Santa Luzia	15.47
+4382	True	BA	29	28059	Santa Luzia	12.308
+4388	True	SP	35	46900	Santa Lúcia	8.889
+4389	True	PR	41	23824	Santa Lúcia	3.795
+4392	True	RS	43	16907	Santa Maria	285.159
+4393	True	RN	24	9332	Santa Maria	5.689
+4413	True	MA	21	10203	Santa Rita	38.732
+4414	True	PB	25	13703	Santa Rita	138.093
+4432	True	SE	28	6503	Santa Rosa de Lima	3.933
+4433	True	SC	42	15604	Santa Rosa de Lima	2.151
+4446	True	MT	51	7776	Santa Terezinha	8.547
+4447	True	PE	26	12802	Santa Terezinha	11.914
+4448	True	SC	42	15679	Santa Terezinha	8.76
+4449	True	BA	29	28505	Santa Terezinha	10.520
+4457	True	AP	16	600	Santana	124.808
+4458	True	BA	29	28208	Santana	26.792
+4496	True	PB	25	13851	Santo André	2.496
+4497	True	SP	35	47809	Santo André	723.889
+4548	True	RJ	33	5406	Sapucaia	18.270
+4549	True	PA	15	7755	Sapucaia	6.088
+4554	True	PR	41	26256	Sarandi	98.888
+4555	True	RS	43	20107	Sarandi	25.024
+4638	True	BA	29	30501	Serrinha	81.693
+4639	True	RN	24	13508	Serrinha	6.128
+4649	True	PB	25	15930	Sertãozinho	5.152
+4650	True	SP	35	51702	Sertãozinho	128.432
+4682	True	BA	29	30774	Sobradinho	23.274
+4683	True	RS	43	20701	Sobradinho	15.041
+4689	True	PB	25	16102	Soledade	15.211
+4690	True	RS	43	20800	Soledade	31.067
+4722	True	MA	21	10500	São Bento	45.989
+4723	True	PB	25	13901	São Bento	34.65
+4742	True	SC	42	16008	São Carlos	11.456
+4743	True	SP	35	48906	São Carlos	256.915
+4748	True	SE	28	6800	São Domingos	11.276
+4749	True	PB	25	13968	São Domingos	3.119
+4750	True	GO	52	19803	São Domingos	13.305
+4751	True	SC	42	16107	São Domingos	9.422
+4752	True	BA	29	28950	São Domingos	9.085
+4766	True	SP	35	49003	São Francisco	2.813
+4767	True	MG	31	61106	São Francisco	56.625
+4768	True	SE	28	6909	São Francisco	3.837
+4769	True	PB	25	13984	São Francisco	3.377
+4774	True	MG	31	61205	São Francisco de Paula	6.512
+4775	True	RS	43	18200	São Francisco de Paula	21.871
+4794	True	RS	43	18309	São Gabriel	62.187
+4795	True	BA	29	29255	São Gabriel	18.785
+4805	True	RN	24	12005	São Gonçalo do Amarante	104.919
+4806	True	CE	23	12403	São Gonçalo do Amarante	49.306
+4855	True	PI	22	10052	São José do Divino	5.361
+4856	True	MG	31	63300	São José do Divino	3.851
+4885	True	PE	26	13206	São João	23.002
+4886	True	PR	41	24806	São João	10.122
+4887	True	MA	21	11003	São João Batista	20.736
+4888	True	SC	42	16305	São João Batista	39.719
+4925	True	MA	21	11052	São João do Paraíso	11.207
+4926	True	MG	31	62708	São João do Paraíso	23.797
+4960	True	RS	43	19109	São Martinho	5.336
+4961	True	SC	42	17105	São Martinho	3.162
+4993	True	RN	24	12708	São Pedro	5.889
+4994	True	SP	35	50407	São Pedro	36.298
+5022	True	SP	35	50704	São Sebastião	91.637
+5023	True	AL	27	8808	São Sebastião	34.424
+5043	True	SP	35	50902	São Simão	15.446
+5044	True	GO	52	20405	São Simão	21.318
+5047	True	PR	41	26108	São Tomé	5.778
+5048	True	RN	24	12906	São Tomé	11.051
+5055	True	SP	35	51009	São Vicente	370.839
+5056	True	RN	24	13003	São Vicente	6.476
+5063	True	RN	24	13706	Sítio Novo	5.6
+5064	True	MA	21	11805	Sítio Novo	18.237
+5071	True	SP	35	52700	Tabatinga	16.787
+5072	True	AM	13	4062	Tabatinga	68.502(10)
+5103	True	RN	24	14001	Tangará	16.008
+5104	True	SC	42	17907	Tangará	8.648
+5114	True	PR	41	26801	Tapejara	16.48
+5115	True	RS	43	20909	Tapejara	24.973
+5117	True	PB	25	16508	Taperoá	15.505
+5118	True	BA	29	31202	Taperoá	21.421
+5120	True	MG	31	68101	Tapira	4.89
+5121	True	PR	41	26900	Tapira	5.452
+5124	True	MG	31	68200	Tapiraí	1.869
+5125	True	SP	35	53500	Tapiraí	7.725
+5149	True	PB	25	16607	Tavares	14.791
+5150	True	RS	43	21352	Tavares	5.484
+5165	True	SP	35	54300	Teodoro Sampaio	23.395
+5166	True	BA	29	31400	Teodoro Sampaio	7.296
+5178	True	BA	29	31707	Terra Nova	13.018
+5179	True	PE	26	15201	Terra Nova	10.314
+5182	True	PR	41	27403	Terra Roxa	17.562
+5183	True	SP	35	54409	Terra Roxa	9.502
+5216	True	MG	31	69109	Toledo	6.336
+5217	True	PR	41	27700	Toledo	144.601
+5244	True	GO	52	21403	Trindade	132.006
+5245	True	PE	26	15607	Trindade	31.103
+5247	True	PE	26	15706	Triunfo	15.232
+5248	True	RS	43	22004	Triunfo	30.159
+5249	True	PB	25	16805	Triunfo	9.473
+5298	True	MG	31	69703	Turmalina	20.28
+5299	True	SP	35	55307	Turmalina	1.667
+5303	True	SC	42	18806	Turvo	13.08
+5304	True	PR	41	27965	Turvo	12.977
+5385	True	BA	29	32903	Valença	97.873
+5386	True	RJ	33	6107	Valença	77.202
+5392	True	SC	42	19150	Vargem	2.387
+5393	True	SP	35	56354	Vargem	10.842
+5396	True	MG	31	70602	Vargem Bonita	2.143
+5397	True	SC	42	19176	Vargem Bonita	4.411
+5418	True	BA	29	33208	Vera Cruz	44.185(19)
+5419	True	RN	24	14803	Vera Cruz	12.789
+5420	True	RS	43	22707	Vera Cruz	27.325
+5421	True	SP	35	56602	Vera Cruz	10.804
+5438	True	MA	21	12803	Viana	52.852
+5439	True	ES	32	5101	Viana	80.735
+5491	True	AL	27	9400	Viçosa	25.655
+5492	True	MG	31	71303	Viçosa	79.91
+5493	True	RN	24	14902	Viçosa	1.731
+5499	True	RN	24	14704	Várzea	5.529
+5500	True	PB	25	17100	Várzea	2.87
+5503	True	MT	51	8402	Várzea Grande	290.383
+5504	True	PI	22	11407	Várzea Grande	4.382
+5514	True	MG	31	72202	Wenceslau Braz	2.543
+5515	True	PR	41	28500	Wenceslau Braz	19.358
+5534	True	MG	31	609	Água Boa	13.319
+5535	True	MT	51	201	Água Boa	26.679
+5536	True	AL	27	102	Água Branca	20.263
+5537	True	PB	25	106	Água Branca	10.375
+5538	True	PI	22	202	Água Branca	17.525

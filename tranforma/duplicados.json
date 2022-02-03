@@ -1,0 +1,4529 @@
+[
+  {
+    "idx": 57,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 502,
+    "name": "Alagoinha",
+    "população": 14.629
+  },
+  {
+    "idx": 58,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 609,
+    "name": "Alagoinha",
+    "população": 14.798
+  },
+  {
+    "idx": 107,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 554,
+    "name": "Alto Alegre",
+    "população": 1.59
+  },
+  {
+    "idx": 108,
+    "duplicated": "True",
+    "uf": "RR",
+    "coduf": 14,
+    "codmun": 50,
+    "name": "Alto Alegre",
+    "população": 15.249
+  },
+  {
+    "idx": 109,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 1103,
+    "name": "Alto Alegre",
+    "população": 4.078
+  },
+  {
+    "idx": 124,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 28625,
+    "name": "Alto Paraíso",
+    "população": 2.63
+  },
+  {
+    "idx": 125,
+    "duplicated": "True",
+    "uf": "RO",
+    "coduf": 11,
+    "codmun": "00403",
+    "name": "Alto Paraíso",
+    "população": 22.258
+  },
+  {
+    "idx": 141,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 707,
+    "name": "Alvorada",
+    "população": 8.381
+  },
+  {
+    "idx": 142,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 604,
+    "name": "Alvorada",
+    "população": 212.352
+  },
+  {
+    "idx": 166,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 734,
+    "name": "Amparo",
+    "população": 2.264
+  },
+  {
+    "idx": 167,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 1905,
+    "name": "Amparo",
+    "população": 73.145
+  },
+  {
+    "idx": 188,
+    "duplicated": "True",
+    "uf": "ES",
+    "coduf": 32,
+    "codmun": 409,
+    "name": "Anchieta",
+    "população": 30.285
+  },
+  {
+    "idx": 189,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 804,
+    "name": "Anchieta",
+    "população": 5.477
+  },
+  {
+    "idx": 221,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 1208,
+    "name": "Antônio Carlos",
+    "população": 8.712
+  },
+  {
+    "idx": 222,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 2902,
+    "name": "Antônio Carlos",
+    "população": 11.471
+  },
+  {
+    "idx": 232,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 775,
+    "name": "Aparecida",
+    "população": 8.482
+  },
+  {
+    "idx": 233,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 2507,
+    "name": "Aparecida",
+    "população": 36.211
+  },
+  {
+    "idx": 269,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 873,
+    "name": "Araguanã",
+    "população": 15.675
+  },
+  {
+    "idx": 270,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 2158,
+    "name": "Araguanã",
+    "população": 5.856
+  },
+  {
+    "idx": 305,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 1705,
+    "name": "Araruna",
+    "população": 14.029
+  },
+  {
+    "idx": 306,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 1005,
+    "name": "Araruna",
+    "população": 20.61
+  },
+  {
+    "idx": 332,
+    "duplicated": "True",
+    "uf": "SE",
+    "coduf": 28,
+    "codmun": 506,
+    "name": "Areia Branca",
+    "população": 18.825
+  },
+  {
+    "idx": 333,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 1107,
+    "name": "Areia Branca",
+    "população": 28.156
+  },
+  {
+    "idx": 380,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 409,
+    "name": "Atalaia",
+    "população": 47.54
+  },
+  {
+    "idx": 381,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 2208,
+    "name": "Atalaia",
+    "população": 3.871
+  },
+  {
+    "idx": 394,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 1703,
+    "name": "Aurora",
+    "população": 24.567
+  },
+  {
+    "idx": 395,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 1901,
+    "name": "Aurora",
+    "população": 5.687
+  },
+  {
+    "idx": 444,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 2406,
+    "name": "Bandeirantes",
+    "população": 31.061
+  },
+  {
+    "idx": 445,
+    "duplicated": "True",
+    "uf": "MS",
+    "coduf": 50,
+    "codmun": 1508,
+    "name": "Bandeirantes",
+    "população": 7.281
+  },
+  {
+    "idx": 449,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 1453,
+    "name": "Baraúna",
+    "população": 29.112
+  },
+  {
+    "idx": 450,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 1534,
+    "name": "Baraúna",
+    "população": 5.033
+  },
+  {
+    "idx": 460,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 2099,
+    "name": "Barra Bonita",
+    "população": 1.625
+  },
+  {
+    "idx": 461,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 5302,
+    "name": "Barra Bonita",
+    "população": 36.125
+  },
+  {
+    "idx": 473,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 607,
+    "name": "Barra de São Miguel",
+    "população": 8.434
+  },
+  {
+    "idx": 474,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 1708,
+    "name": "Barra de São Miguel",
+    "população": 6.095
+  },
+  {
+    "idx": 491,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 2604,
+    "name": "Barracão",
+    "população": 10.347
+  },
+  {
+    "idx": 492,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 1800,
+    "name": "Barracão",
+    "população": 5.237
+  },
+  {
+    "idx": 503,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 3203,
+    "name": "Barro Alto",
+    "população": 11.643
+  },
+  {
+    "idx": 504,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 3235,
+    "name": "Barro Alto",
+    "população": 15.171
+  },
+  {
+    "idx": 523,
+    "duplicated": "True",
+    "uf": "PI",
+    "coduf": 22,
+    "codmun": 1507,
+    "name": "Batalha",
+    "população": 26.951
+  },
+  {
+    "idx": 524,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 706,
+    "name": "Batalha",
+    "população": 18.44
+  },
+  {
+    "idx": 545,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 2156,
+    "name": "Belmonte",
+    "população": 2.712
+  },
+  {
+    "idx": 546,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 3409,
+    "name": "Belmonte",
+    "população": 23.54
+  },
+  {
+    "idx": 555,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 1906,
+    "name": "Belém",
+    "população": 17.733
+  },
+  {
+    "idx": 556,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 805,
+    "name": "Belém",
+    "população": 4.226
+  },
+  {
+    "idx": 557,
+    "duplicated": "True",
+    "uf": "PA",
+    "coduf": 15,
+    "codmun": 1402,
+    "name": "Belém",
+    "população": "1.506.420"
+  },
+  {
+    "idx": 596,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 7109,
+    "name": "Boa Esperança",
+    "população": 40.308
+  },
+  {
+    "idx": 597,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 3008,
+    "name": "Boa Esperança",
+    "população": 3.991
+  },
+  {
+    "idx": 598,
+    "duplicated": "True",
+    "uf": "ES",
+    "coduf": 32,
+    "codmun": 1001,
+    "name": "Boa Esperança",
+    "população": 15.146
+  },
+  {
+    "idx": 606,
+    "duplicated": "True",
+    "uf": "RR",
+    "coduf": 14,
+    "codmun": 100,
+    "name": "Boa Vista",
+    "população": 436.591
+  },
+  {
+    "idx": 607,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 2151,
+    "name": "Boa Vista",
+    "população": 7.218
+  },
+  {
+    "idx": 619,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 6805,
+    "name": "Bocaina",
+    "população": 12.571
+  },
+  {
+    "idx": 620,
+    "duplicated": "True",
+    "uf": "PI",
+    "coduf": 22,
+    "codmun": 1804,
+    "name": "Bocaina",
+    "população": 4.509
+  },
+  {
+    "idx": 632,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 2209,
+    "name": "Bom Jardim",
+    "população": 40.038
+  },
+  {
+    "idx": 633,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 2002,
+    "name": "Bom Jardim",
+    "população": 42.01
+  },
+  {
+    "idx": 634,
+    "duplicated": "True",
+    "uf": "RJ",
+    "coduf": 33,
+    "codmun": 506,
+    "name": "Bom Jardim",
+    "população": 27.779
+  },
+  {
+    "idx": 638,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 2201,
+    "name": "Bom Jesus",
+    "população": 2.588
+  },
+  {
+    "idx": 639,
+    "duplicated": "True",
+    "uf": "PI",
+    "coduf": 22,
+    "codmun": 1903,
+    "name": "Bom Jesus",
+    "população": 25.584
+  },
+  {
+    "idx": 640,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 1701,
+    "name": "Bom Jesus",
+    "população": 10.323
+  },
+  {
+    "idx": 641,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 2303,
+    "name": "Bom Jesus",
+    "população": 11.27
+  },
+  {
+    "idx": 642,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 2537,
+    "name": "Bom Jesus",
+    "população": 3.104
+  },
+  {
+    "idx": 665,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 3206,
+    "name": "Bom Sucesso",
+    "população": 7.103
+  },
+  {
+    "idx": 666,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 2300,
+    "name": "Bom Sucesso",
+    "população": 4.937
+  },
+  {
+    "idx": 667,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 8008,
+    "name": "Bom Sucesso",
+    "população": 17.612
+  },
+  {
+    "idx": 671,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 8107,
+    "name": "Bonfim",
+    "população": 6.852
+  },
+  {
+    "idx": 672,
+    "duplicated": "True",
+    "uf": "RR",
+    "coduf": 14,
+    "codmun": 159,
+    "name": "Bonfim",
+    "população": 12.701
+  },
+  {
+    "idx": 677,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 2308,
+    "name": "Bonito",
+    "população": 38.101
+  },
+  {
+    "idx": 678,
+    "duplicated": "True",
+    "uf": "MS",
+    "coduf": 50,
+    "codmun": 2209,
+    "name": "Bonito",
+    "população": 22.401
+  },
+  {
+    "idx": 679,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 4050,
+    "name": "Bonito",
+    "população": 16.999
+  },
+  {
+    "idx": 680,
+    "duplicated": "True",
+    "uf": "PA",
+    "coduf": 15,
+    "codmun": 1600,
+    "name": "Bonito",
+    "população": 16.769
+  },
+  {
+    "idx": 691,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 7407,
+    "name": "Borborema",
+    "população": 16.278
+  },
+  {
+    "idx": 692,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 2706,
+    "name": "Borborema",
+    "população": 5.311
+  },
+  {
+    "idx": 726,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 1800,
+    "name": "Brejinho",
+    "população": 12.873
+  },
+  {
+    "idx": 727,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 2506,
+    "name": "Brejinho",
+    "população": 7.489
+  },
+  {
+    "idx": 774,
+    "duplicated": "True",
+    "uf": "RO",
+    "coduf": 11,
+    "codmun": "00452",
+    "name": "Buritis",
+    "população": 41.043
+  },
+  {
+    "idx": 775,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 9303,
+    "name": "Buritis",
+    "população": 25.179
+  },
+  {
+    "idx": 802,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 4250,
+    "name": "Cachoeira Dourada",
+    "população": 7.997
+  },
+  {
+    "idx": 803,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 9808,
+    "name": "Cachoeira Dourada",
+    "população": 2.72
+  },
+  {
+    "idx": 815,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 3826,
+    "name": "Cachoeirinha",
+    "população": 2.293
+  },
+  {
+    "idx": 816,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 3103,
+    "name": "Cachoeirinha",
+    "população": 132.144
+  },
+  {
+    "idx": 817,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 3108,
+    "name": "Cachoeirinha",
+    "população": 20.618
+  },
+  {
+    "idx": 834,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 3453,
+    "name": "Cafelândia",
+    "população": 18.783
+  },
+  {
+    "idx": 835,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 8801,
+    "name": "Cafelândia",
+    "população": 17.917
+  },
+  {
+    "idx": 846,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 3605,
+    "name": "Caiçara",
+    "população": 7.182
+  },
+  {
+    "idx": 847,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 3400,
+    "name": "Caiçara",
+    "população": 4.659
+  },
+  {
+    "idx": 896,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 11002,
+    "name": "Campestre",
+    "população": 21.052
+  },
+  {
+    "idx": 897,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 1357,
+    "name": "Campestre",
+    "população": 6.972
+  },
+  {
+    "idx": 914,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 3303,
+    "name": "Campo Alegre",
+    "população": 11.985
+  },
+  {
+    "idx": 915,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 1407,
+    "name": "Campo Alegre",
+    "população": 57.997
+  },
+  {
+    "idx": 927,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 1305,
+    "name": "Campo Grande",
+    "população": 9.686
+  },
+  {
+    "idx": 928,
+    "duplicated": "True",
+    "uf": "MS",
+    "coduf": 50,
+    "codmun": 2704,
+    "name": "Campo Grande",
+    "população": 916.001
+  },
+  {
+    "idx": 929,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 1506,
+    "name": "Campo Grande",
+    "população": 9.576
+  },
+  {
+    "idx": 963,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 6204,
+    "name": "Canarana",
+    "população": 26.468
+  },
+  {
+    "idx": 964,
+    "duplicated": "True",
+    "uf": "MT",
+    "coduf": 51,
+    "codmun": 2702,
+    "name": "Canarana",
+    "população": 22.101
+  },
+  {
+    "idx": 971,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 12000,
+    "name": "Candeias",
+    "população": 14.89
+  },
+  {
+    "idx": 972,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 6501,
+    "name": "Candeias",
+    "população": 87.82
+  },
+  {
+    "idx": 990,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 4451,
+    "name": "Cantagalo",
+    "população": 13.34
+  },
+  {
+    "idx": 991,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 12059,
+    "name": "Cantagalo",
+    "população": 4.575
+  },
+  {
+    "idx": 992,
+    "duplicated": "True",
+    "uf": "RJ",
+    "coduf": 33,
+    "codmun": 1108,
+    "name": "Cantagalo",
+    "população": 20.163
+  },
+  {
+    "idx": 999,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 6105,
+    "name": "Canápolis",
+    "população": 9.694
+  },
+  {
+    "idx": 1000,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 11804,
+    "name": "Canápolis",
+    "população": 12.251
+  },
+  {
+    "idx": 1001,
+    "duplicated": "True",
+    "uf": "PA",
+    "coduf": 15,
+    "codmun": 2202,
+    "name": "Capanema",
+    "população": 69.828
+  },
+  {
+    "idx": 1002,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 4501,
+    "name": "Capanema",
+    "população": 19.172
+  },
+  {
+    "idx": 1004,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 1704,
+    "name": "Capela",
+    "população": 16.907
+  },
+  {
+    "idx": 1005,
+    "duplicated": "True",
+    "uf": "SE",
+    "coduf": 28,
+    "codmun": 1306,
+    "name": "Capela",
+    "população": 34.808
+  },
+  {
+    "idx": 1040,
+    "duplicated": "True",
+    "uf": "MS",
+    "coduf": 50,
+    "codmun": 2803,
+    "name": "Caracol",
+    "população": 6.247
+  },
+  {
+    "idx": 1041,
+    "duplicated": "True",
+    "uf": "PI",
+    "coduf": 22,
+    "codmun": 2505,
+    "name": "Caracol",
+    "população": 11.009
+  },
+  {
+    "idx": 1056,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 2303,
+    "name": "Caraúbas",
+    "população": 20.588
+  },
+  {
+    "idx": 1057,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 4074,
+    "name": "Caraúbas",
+    "população": 4.206
+  },
+  {
+    "idx": 1114,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 4808,
+    "name": "Cascavel",
+    "população": 336.073
+  },
+  {
+    "idx": 1115,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 3501,
+    "name": "Cascavel",
+    "população": 72.706
+  },
+  {
+    "idx": 1134,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 4004,
+    "name": "Catanduvas",
+    "população": 11.106
+  },
+  {
+    "idx": 1135,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 5003,
+    "name": "Catanduvas",
+    "população": 10.144
+  },
+  {
+    "idx": 1165,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 11300,
+    "name": "Cedral",
+    "população": 9.452
+  },
+  {
+    "idx": 1166,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 3109,
+    "name": "Cedral",
+    "população": 10.711
+  },
+  {
+    "idx": 1167,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 3808,
+    "name": "Cedro",
+    "população": 25.612
+  },
+  {
+    "idx": 1168,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 4304,
+    "name": "Cedro",
+    "população": 11.972
+  },
+  {
+    "idx": 1172,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 5116,
+    "name": "Centenário",
+    "população": 2.865
+  },
+  {
+    "idx": 1173,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 4105,
+    "name": "Centenário",
+    "população": 2.966
+  },
+  {
+    "idx": 1258,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 3505,
+    "name": "Colinas",
+    "população": 41.443
+  },
+  {
+    "idx": 1259,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 5587,
+    "name": "Colinas",
+    "população": 2.466
+  },
+  {
+    "idx": 1265,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 5603,
+    "name": "Colorado",
+    "população": 3.088
+  },
+  {
+    "idx": 1266,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 5904,
+    "name": "Colorado",
+    "população": 24.271
+  },
+  {
+    "idx": 1304,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 4601,
+    "name": "Condado",
+    "população": 26.755
+  },
+  {
+    "idx": 1305,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 4504,
+    "name": "Condado",
+    "população": 6.662
+  },
+  {
+    "idx": 1306,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 8606,
+    "name": "Conde",
+    "população": 26.223
+  },
+  {
+    "idx": 1307,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 4603,
+    "name": "Conde",
+    "população": 25.341
+  },
+  {
+    "idx": 1431,
+    "duplicated": "True",
+    "uf": "AC",
+    "coduf": 12,
+    "codmun": 203,
+    "name": "Cruzeiro do Sul",
+    "população": 89.76
+  },
+  {
+    "idx": 1432,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 6205,
+    "name": "Cruzeiro do Sul",
+    "população": 12.457
+  },
+  {
+    "idx": 1433,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 6704,
+    "name": "Cruzeiro do Sul",
+    "população": 4.43
+  },
+  {
+    "idx": 1498,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 6909,
+    "name": "Davinópolis",
+    "população": 2.094
+  },
+  {
+    "idx": 1499,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 3752,
+    "name": "Davinópolis",
+    "população": 12.923
+  },
+  {
+    "idx": 1583,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 7256,
+    "name": "Douradina",
+    "população": 8.988
+  },
+  {
+    "idx": 1584,
+    "duplicated": "True",
+    "uf": "MS",
+    "coduf": 50,
+    "codmun": 3504,
+    "name": "Douradina",
+    "população": 6.025
+  },
+  {
+    "idx": 1610,
+    "duplicated": "True",
+    "uf": "MS",
+    "coduf": 50,
+    "codmun": 3751,
+    "name": "Eldorado",
+    "população": 12.447
+  },
+  {
+    "idx": 1611,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 14809,
+    "name": "Eldorado",
+    "população": 15.592
+  },
+  {
+    "idx": 1636,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 10503,
+    "name": "Entre Rios",
+    "população": 42.014
+  },
+  {
+    "idx": 1637,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 5175,
+    "name": "Entre Rios",
+    "população": 3.232
+  },
+  {
+    "idx": 1659,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 7405,
+    "name": "Esperantina",
+    "população": 11.28
+  },
+  {
+    "idx": 1660,
+    "duplicated": "True",
+    "uf": "PI",
+    "coduf": 22,
+    "codmun": 3701,
+    "name": "Esperantina",
+    "população": 39.953
+  },
+  {
+    "idx": 1685,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 15301,
+    "name": "Estrela do Norte",
+    "população": 2.774
+  },
+  {
+    "idx": 1686,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 7501,
+    "name": "Estrela do Norte",
+    "população": 3.253
+  },
+  {
+    "idx": 1720,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 5400,
+    "name": "Feira Nova",
+    "população": 22.36
+  },
+  {
+    "idx": 1721,
+    "duplicated": "True",
+    "uf": "SE",
+    "coduf": 28,
+    "codmun": 2205,
+    "name": "Feira Nova",
+    "população": 5.617
+  },
+  {
+    "idx": 1749,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 10859,
+    "name": "Filadélfia",
+    "população": 16.314
+  },
+  {
+    "idx": 1750,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 7702,
+    "name": "Filadélfia",
+    "população": 8.892
+  },
+  {
+    "idx": 1763,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 7900,
+    "name": "Floresta",
+    "população": 6.926
+  },
+  {
+    "idx": 1764,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 5707,
+    "name": "Floresta",
+    "população": 33.488
+  },
+  {
+    "idx": 1786,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 26208,
+    "name": "Formoso",
+    "população": 9.81
+  },
+  {
+    "idx": 1787,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 8103,
+    "name": "Formoso",
+    "população": 4.098
+  },
+  {
+    "idx": 1833,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 10750,
+    "name": "Fátima",
+    "população": 17.801
+  },
+  {
+    "idx": 1834,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 7553,
+    "name": "Fátima",
+    "população": 3.824
+  },
+  {
+    "idx": 1861,
+    "duplicated": "True",
+    "uf": "MT",
+    "coduf": 51,
+    "codmun": 3908,
+    "name": "General Carneiro",
+    "população": 5.726
+  },
+  {
+    "idx": 1862,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 8502,
+    "name": "General Carneiro",
+    "população": 13.661
+  },
+  {
+    "idx": 1959,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 17901,
+    "name": "Guaraci",
+    "população": 11.382
+  },
+  {
+    "idx": 1960,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 9203,
+    "name": "Guaraci",
+    "população": 5.557
+  },
+  {
+    "idx": 1961,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 6405,
+    "name": "Guaraciaba",
+    "população": 9.964
+  },
+  {
+    "idx": 1962,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 28204,
+    "name": "Guaraciaba",
+    "população": 10.307
+  },
+  {
+    "idx": 2001,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 17406,
+    "name": "Guaíra",
+    "população": 41.283
+  },
+  {
+    "idx": 2002,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 8809,
+    "name": "Guaíra",
+    "população": 33.497
+  },
+  {
+    "idx": 2025,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 9705,
+    "name": "Hidrolândia",
+    "população": 22.533
+  },
+  {
+    "idx": 2026,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 5209,
+    "name": "Hidrolândia",
+    "população": 20.126
+  },
+  {
+    "idx": 2034,
+    "duplicated": "True",
+    "uf": "AM",
+    "coduf": 13,
+    "codmun": 1704,
+    "name": "Humaitá",
+    "população": 57.195
+  },
+  {
+    "idx": 2035,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 9704,
+    "name": "Humaitá",
+    "população": 4.712
+  },
+  {
+    "idx": 2123,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 10052,
+    "name": "Iguatu",
+    "população": 2.251
+  },
+  {
+    "idx": 2124,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 5506,
+    "name": "Iguatu",
+    "população": 103.633
+  },
+  {
+    "idx": 2149,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 10300,
+    "name": "Inajá",
+    "população": 3.122
+  },
+  {
+    "idx": 2150,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 7000,
+    "name": "Inajá",
+    "população": 24.034
+  },
+  {
+    "idx": 2155,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 5605,
+    "name": "Independência",
+    "população": 26.196
+  },
+  {
+    "idx": 2156,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 10405,
+    "name": "Independência",
+    "população": 6.054
+  },
+  {
+    "idx": 2158,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 30705,
+    "name": "Indianópolis",
+    "população": 7.009
+  },
+  {
+    "idx": 2159,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 10409,
+    "name": "Indianópolis",
+    "população": 4.472
+  },
+  {
+    "idx": 2212,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 5902,
+    "name": "Ipueiras",
+    "população": 38.064
+  },
+  {
+    "idx": 2213,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 9807,
+    "name": "Ipueiras",
+    "população": 2.088
+  },
+  {
+    "idx": 2219,
+    "duplicated": "True",
+    "uf": "RR",
+    "coduf": 14,
+    "codmun": 282,
+    "name": "Iracema",
+    "população": 12.637
+  },
+  {
+    "idx": 2220,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 6009,
+    "name": "Iracema",
+    "população": 14.351
+  },
+  {
+    "idx": 2232,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 10706,
+    "name": "Irati",
+    "população": 61.439
+  },
+  {
+    "idx": 2233,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 7858,
+    "name": "Irati",
+    "população": 1.887
+  },
+  {
+    "idx": 2245,
+    "duplicated": "True",
+    "uf": "SE",
+    "coduf": 28,
+    "codmun": 2908,
+    "name": "Itabaiana",
+    "população": 96.839
+  },
+  {
+    "idx": 2246,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 6905,
+    "name": "Itabaiana",
+    "população": 24.363
+  },
+  {
+    "idx": 2291,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 10802,
+    "name": "Itajá",
+    "população": 4.412
+  },
+  {
+    "idx": 2292,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 4853,
+    "name": "Itajá",
+    "população": 7.641
+  },
+  {
+    "idx": 2301,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 15809,
+    "name": "Itambé",
+    "população": 22.474
+  },
+  {
+    "idx": 2302,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 11100,
+    "name": "Itambé",
+    "população": 6.11
+  },
+  {
+    "idx": 2303,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 7653,
+    "name": "Itambé",
+    "população": 36.495
+  },
+  {
+    "idx": 2332,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 22406,
+    "name": "Itapeva",
+    "população": 95.241
+  },
+  {
+    "idx": 2333,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 33600,
+    "name": "Itapeva",
+    "população": 9.976
+  },
+  {
+    "idx": 2338,
+    "duplicated": "True",
+    "uf": "AM",
+    "coduf": 13,
+    "codmun": 2009,
+    "name": "Itapiranga",
+    "população": 9.312
+  },
+  {
+    "idx": 2339,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 8401,
+    "name": "Itapiranga",
+    "população": 17.139
+  },
+  {
+    "idx": 2346,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 7002,
+    "name": "Itaporanga",
+    "população": 24.96
+  },
+  {
+    "idx": 2347,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 22802,
+    "name": "Itaporanga",
+    "população": 15.197
+  },
+  {
+    "idx": 2426,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 24204,
+    "name": "Jaborandi",
+    "população": 6.963
+  },
+  {
+    "idx": 2427,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 17359,
+    "name": "Jaborandi",
+    "população": 8.176
+  },
+  {
+    "idx": 2448,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 10900,
+    "name": "Jacutinga",
+    "população": 3.532
+  },
+  {
+    "idx": 2449,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 34905,
+    "name": "Jacutinga",
+    "população": 26.538
+  },
+  {
+    "idx": 2474,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 5108,
+    "name": "Jandaíra",
+    "população": 6.907
+  },
+  {
+    "idx": 2475,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 17904,
+    "name": "Jandaíra",
+    "população": 10.742
+  },
+  {
+    "idx": 2491,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 12405,
+    "name": "Japurá",
+    "população": 9.573
+  },
+  {
+    "idx": 2492,
+    "duplicated": "True",
+    "uf": "AM",
+    "coduf": 13,
+    "codmun": 2108,
+    "name": "Japurá",
+    "população": 1.755
+  },
+  {
+    "idx": 2499,
+    "duplicated": "True",
+    "uf": "MS",
+    "coduf": 50,
+    "codmun": 5004,
+    "name": "Jardim",
+    "população": 26.375
+  },
+  {
+    "idx": 2500,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 7106,
+    "name": "Jardim",
+    "população": 27.187
+  },
+  {
+    "idx": 2507,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 25102,
+    "name": "Jardinópolis",
+    "população": 45.544
+  },
+  {
+    "idx": 2508,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 8955,
+    "name": "Jardinópolis",
+    "população": 1.52
+  },
+  {
+    "idx": 2517,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 5450,
+    "name": "Jatobá",
+    "população": 10.464
+  },
+  {
+    "idx": 2518,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 8057,
+    "name": "Jatobá",
+    "população": 14.904
+  },
+  {
+    "idx": 2599,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 6155,
+    "name": "Jundiá",
+    "população": 3.945
+  },
+  {
+    "idx": 2600,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 3908,
+    "name": "Jundiá",
+    "população": 4.119
+  },
+  {
+    "idx": 2609,
+    "duplicated": "True",
+    "uf": "PI",
+    "coduf": 22,
+    "codmun": 5532,
+    "name": "Jurema",
+    "população": 4.79
+  },
+  {
+    "idx": 2610,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 8404,
+    "name": "Jurema",
+    "população": 15.483
+  },
+  {
+    "idx": 2618,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 12204,
+    "name": "Jussara",
+    "população": 18.266
+  },
+  {
+    "idx": 2619,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 18506,
+    "name": "Jussara",
+    "população": 15.241
+  },
+  {
+    "idx": 2620,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 13007,
+    "name": "Jussara",
+    "população": 7.069
+  },
+  {
+    "idx": 2648,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 8750,
+    "name": "Lagoa Grande",
+    "população": 26.09
+  },
+  {
+    "idx": 2649,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 37536,
+    "name": "Lagoa Grande",
+    "população": 9.681
+  },
+  {
+    "idx": 2654,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 12253,
+    "name": "Lagoa Santa",
+    "população": 1.652
+  },
+  {
+    "idx": 2655,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 37601,
+    "name": "Lagoa Santa",
+    "população": 66.744
+  },
+  {
+    "idx": 2684,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 12009,
+    "name": "Lajeado",
+    "população": 3.199
+  },
+  {
+    "idx": 2685,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 11403,
+    "name": "Lajeado",
+    "população": 86.005
+  },
+  {
+    "idx": 2704,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 13254,
+    "name": "Laranjal",
+    "população": 5.719
+  },
+  {
+    "idx": 2705,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 38005,
+    "name": "Laranjal",
+    "população": 6.856
+  },
+  {
+    "idx": 2890,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 4609,
+    "name": "Maravilha",
+    "população": 8.85
+  },
+  {
+    "idx": 2891,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 10506,
+    "name": "Maravilha",
+    "população": 26.463
+  },
+  {
+    "idx": 2948,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 10605,
+    "name": "Massaranduba",
+    "população": 17.33
+  },
+  {
+    "idx": 2949,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 9206,
+    "name": "Massaranduba",
+    "população": 14.077
+  },
+  {
+    "idx": 3009,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 41702,
+    "name": "Mesquita",
+    "população": 5.489
+  },
+  {
+    "idx": 3010,
+    "duplicated": "True",
+    "uf": "RJ",
+    "coduf": 33,
+    "codmun": 2858,
+    "name": "Mesquita",
+    "população": 177.016
+  },
+  {
+    "idx": 3019,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 21302,
+    "name": "Milagres",
+    "população": 10.838
+  },
+  {
+    "idx": 3020,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 8302,
+    "name": "Milagres",
+    "população": 27.413
+  },
+  {
+    "idx": 3039,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 6706,
+    "name": "Mirador",
+    "população": 21.045
+  },
+  {
+    "idx": 3040,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 15903,
+    "name": "Mirador",
+    "população": 2.18
+  },
+  {
+    "idx": 3090,
+    "duplicated": "True",
+    "uf": "PA",
+    "coduf": 15,
+    "codmun": 4802,
+    "name": "Monte Alegre",
+    "população": 58.289
+  },
+  {
+    "idx": 3091,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 7807,
+    "name": "Monte Alegre",
+    "população": 22.698
+  },
+  {
+    "idx": 3106,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 11108,
+    "name": "Monte Castelo",
+    "população": 8.263
+  },
+  {
+    "idx": 3107,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 31605,
+    "name": "Monte Castelo",
+    "população": 4.166
+  },
+  {
+    "idx": 3139,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 13806,
+    "name": "Morrinhos",
+    "população": 46.955
+  },
+  {
+    "idx": 3140,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 8906,
+    "name": "Morrinhos",
+    "população": 22.83
+  },
+  {
+    "idx": 3169,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 9102,
+    "name": "Mulungu",
+    "população": 11.056
+  },
+  {
+    "idx": 3170,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 9800,
+    "name": "Mulungu",
+    "população": 9.962
+  },
+  {
+    "idx": 3172,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 22102,
+    "name": "Mundo Novo",
+    "população": 27.153
+  },
+  {
+    "idx": 3173,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 14051,
+    "name": "Mundo Novo",
+    "população": 4.54
+  },
+  {
+    "idx": 3174,
+    "duplicated": "True",
+    "uf": "MS",
+    "coduf": 50,
+    "codmun": 5681,
+    "name": "Mundo Novo",
+    "população": 18.578
+  },
+  {
+    "idx": 3204,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 14203,
+    "name": "Natividade",
+    "população": 9.256
+  },
+  {
+    "idx": 3205,
+    "duplicated": "True",
+    "uf": "RJ",
+    "coduf": 33,
+    "codmun": 3104,
+    "name": "Natividade",
+    "população": 15.305
+  },
+  {
+    "idx": 3213,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 22508,
+    "name": "Nazaré",
+    "população": 28.661
+  },
+  {
+    "idx": 3214,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 14302,
+    "name": "Nazaré",
+    "população": 3.772
+  },
+  {
+    "idx": 3257,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 16703,
+    "name": "Nova Aurora",
+    "população": 10.131
+  },
+  {
+    "idx": 3258,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 14804,
+    "name": "Nova Aurora",
+    "população": 2.236
+  },
+  {
+    "idx": 3285,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 17008,
+    "name": "Nova Fátima",
+    "população": 8.12
+  },
+  {
+    "idx": 3286,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 22730,
+    "name": "Nova Fátima",
+    "população": 7.83
+  },
+  {
+    "idx": 3313,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 9201,
+    "name": "Nova Olinda",
+    "população": 15.798
+  },
+  {
+    "idx": 3314,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 10204,
+    "name": "Nova Olinda",
+    "população": 5.892
+  },
+  {
+    "idx": 3315,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 14880,
+    "name": "Nova Olinda",
+    "população": 12.014
+  },
+  {
+    "idx": 3318,
+    "duplicated": "True",
+    "uf": "MT",
+    "coduf": 51,
+    "codmun": 6232,
+    "name": "Nova Olímpia",
+    "população": 20.82
+  },
+  {
+    "idx": 3319,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 17206,
+    "name": "Nova Olímpia",
+    "população": 5.846
+  },
+  {
+    "idx": 3337,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 13375,
+    "name": "Nova Santa Rita",
+    "população": 30.482
+  },
+  {
+    "idx": 3338,
+    "duplicated": "True",
+    "uf": "PI",
+    "coduf": 22,
+    "codmun": 7959,
+    "name": "Nova Santa Rita",
+    "população": 4.392
+  },
+  {
+    "idx": 3346,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 36603,
+    "name": "Nova União",
+    "população": 5.739
+  },
+  {
+    "idx": 3347,
+    "duplicated": "True",
+    "uf": "RO",
+    "coduf": 11,
+    "codmun": "01435",
+    "name": "Nova União",
+    "população": 6.822
+  },
+  {
+    "idx": 3348,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 11603,
+    "name": "Nova Veneza",
+    "população": 15.515
+  },
+  {
+    "idx": 3349,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 15009,
+    "name": "Nova Veneza",
+    "população": 10.193
+  },
+  {
+    "idx": 3364,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 23035,
+    "name": "Novo Horizonte",
+    "população": 12.653
+  },
+  {
+    "idx": 3365,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 33502,
+    "name": "Novo Horizonte",
+    "população": 41.765
+  },
+  {
+    "idx": 3366,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 11652,
+    "name": "Novo Horizonte",
+    "população": 2.366
+  },
+  {
+    "idx": 3381,
+    "duplicated": "True",
+    "uf": "PI",
+    "coduf": 22,
+    "codmun": 6951,
+    "name": "Novo Santo Antônio",
+    "população": 3.014
+  },
+  {
+    "idx": 3382,
+    "duplicated": "True",
+    "uf": "MT",
+    "coduf": 51,
+    "codmun": 6315,
+    "name": "Novo Santo Antônio",
+    "população": 2.769
+  },
+  {
+    "idx": 3441,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 6109,
+    "name": "Ouro Branco",
+    "população": 11.573
+  },
+  {
+    "idx": 3442,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 45901,
+    "name": "Ouro Branco",
+    "população": 40.22
+  },
+  {
+    "idx": 3443,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 8508,
+    "name": "Ouro Branco",
+    "população": 4.813
+  },
+  {
+    "idx": 3448,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 11850,
+    "name": "Ouro Verde",
+    "população": 2.197
+  },
+  {
+    "idx": 3449,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 34807,
+    "name": "Ouro Verde",
+    "população": 8.676
+  },
+  {
+    "idx": 3461,
+    "duplicated": "True",
+    "uf": "SE",
+    "coduf": 28,
+    "codmun": 4904,
+    "name": "Pacatuba",
+    "população": 14.65
+  },
+  {
+    "idx": 3462,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 9706,
+    "name": "Pacatuba",
+    "população": 85.647
+  },
+  {
+    "idx": 3479,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 6208,
+    "name": "Palestina",
+    "população": 5.061
+  },
+  {
+    "idx": 3480,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 35002,
+    "name": "Palestina",
+    "população": 13.285
+  },
+  {
+    "idx": 3490,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 21000,
+    "name": "Palmas",
+    "população": 313.349
+  },
+  {
+    "idx": 3491,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 17602,
+    "name": "Palmas",
+    "população": 52.503
+  },
+  {
+    "idx": 3493,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 12056,
+    "name": "Palmeira",
+    "população": 2.673
+  },
+  {
+    "idx": 3494,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 17701,
+    "name": "Palmeira",
+    "população": 34.109
+  },
+  {
+    "idx": 3509,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 35309,
+    "name": "Palmital",
+    "população": 22.322
+  },
+  {
+    "idx": 3510,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 17800,
+    "name": "Palmital",
+    "população": 12.755
+  },
+  {
+    "idx": 3561,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 12239,
+    "name": "Paraíso",
+    "população": 3.284
+  },
+  {
+    "idx": 3562,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 35705,
+    "name": "Paraíso",
+    "população": 6.536
+  },
+  {
+    "idx": 3580,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 3251,
+    "name": "Parnamirim",
+    "população": 272.49
+  },
+  {
+    "idx": 3581,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 10400,
+    "name": "Parnamirim",
+    "população": 22.198
+  },
+  {
+    "idx": 3592,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 9209,
+    "name": "Passagem",
+    "população": 3.114
+  },
+  {
+    "idx": 3593,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 10709,
+    "name": "Passagem",
+    "população": 2.453
+  },
+  {
+    "idx": 3616,
+    "duplicated": "True",
+    "uf": "PA",
+    "coduf": 15,
+    "codmun": 5551,
+    "name": "Pau D Arco",
+    "população": 5.339
+  },
+  {
+    "idx": 3617,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 16307,
+    "name": "Pau D Arco",
+    "população": 4.885
+  },
+  {
+    "idx": 3626,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 10707,
+    "name": "Paulista",
+    "população": 336.919
+  },
+  {
+    "idx": 3627,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 10907,
+    "name": "Paulista",
+    "população": 12.411
+  },
+  {
+    "idx": 3649,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 10506,
+    "name": "Pedra Branca",
+    "população": 43.359
+  },
+  {
+    "idx": 3650,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 11004,
+    "name": "Pedra Branca",
+    "população": 3.802
+  },
+  {
+    "idx": 3656,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 9605,
+    "name": "Pedra Preta",
+    "população": 2.419
+  },
+  {
+    "idx": 3657,
+    "duplicated": "True",
+    "uf": "MT",
+    "coduf": 51,
+    "codmun": 6372,
+    "name": "Pedra Preta",
+    "população": 17.547
+  },
+  {
+    "idx": 3720,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 12700,
+    "name": "Petrolândia",
+    "população": 5.873
+  },
+  {
+    "idx": 3721,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 11002,
+    "name": "Petrolândia",
+    "população": 37.246
+  },
+  {
+    "idx": 3737,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 11509,
+    "name": "Pilar",
+    "população": 12.036
+  },
+  {
+    "idx": 3738,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 6901,
+    "name": "Pilar",
+    "população": 35.31
+  },
+  {
+    "idx": 3742,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 11608,
+    "name": "Pilões",
+    "população": 6.518
+  },
+  {
+    "idx": 3743,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 10009,
+    "name": "Pilões",
+    "população": 3.9
+  },
+  {
+    "idx": 3763,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 12908,
+    "name": "Pinhalzinho",
+    "população": 21.103
+  },
+  {
+    "idx": 3764,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 38204,
+    "name": "Pinhalzinho",
+    "população": 15.564
+  },
+  {
+    "idx": 3772,
+    "duplicated": "True",
+    "uf": "SE",
+    "coduf": 28,
+    "codmun": 5208,
+    "name": "Pinhão",
+    "população": 6.678
+  },
+  {
+    "idx": 3773,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 19301,
+    "name": "Pinhão",
+    "população": 32.722
+  },
+  {
+    "idx": 3795,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 7107,
+    "name": "Piranhas",
+    "população": 25.324
+  },
+  {
+    "idx": 3796,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 17203,
+    "name": "Piranhas",
+    "população": 10.161
+  },
+  {
+    "idx": 3821,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 19657,
+    "name": "Pitangueiras",
+    "população": 3.298
+  },
+  {
+    "idx": 3822,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 39509,
+    "name": "Pitangueiras",
+    "população": 40.43
+  },
+  {
+    "idx": 3834,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 14704,
+    "name": "Planalto",
+    "população": 9.957
+  },
+  {
+    "idx": 3835,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 19806,
+    "name": "Planalto",
+    "população": 13.385
+  },
+  {
+    "idx": 3836,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 39608,
+    "name": "Planalto",
+    "população": 5.37
+  },
+  {
+    "idx": 3837,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 25006,
+    "name": "Planalto",
+    "população": 26.581
+  },
+  {
+    "idx": 3958,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 41000,
+    "name": "Praia Grande",
+    "população": 336.454
+  },
+  {
+    "idx": 3959,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 13807,
+    "name": "Praia Grande",
+    "população": 7.305
+  },
+  {
+    "idx": 3963,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 12200,
+    "name": "Prata",
+    "população": 4.265
+  },
+  {
+    "idx": 3964,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 52808,
+    "name": "Prata",
+    "população": 28.173
+  },
+  {
+    "idx": 3970,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 53103,
+    "name": "Presidente Bernardes",
+    "população": 5.315
+  },
+  {
+    "idx": 3971,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 41208,
+    "name": "Presidente Bernardes",
+    "população": 12.943
+  },
+  {
+    "idx": 3974,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 9106,
+    "name": "Presidente Dutra",
+    "população": 48.264
+  },
+  {
+    "idx": 3975,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 25600,
+    "name": "Presidente Dutra",
+    "população": 15.18
+  },
+  {
+    "idx": 3979,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 53202,
+    "name": "Presidente Juscelino",
+    "população": 3.572
+  },
+  {
+    "idx": 3980,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 9205,
+    "name": "Presidente Juscelino",
+    "população": 12.939
+  },
+  {
+    "idx": 3982,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 18402,
+    "name": "Presidente Kennedy",
+    "população": 3.668
+  },
+  {
+    "idx": 3983,
+    "duplicated": "True",
+    "uf": "ES",
+    "coduf": 32,
+    "codmun": 4302,
+    "name": "Presidente Kennedy",
+    "população": 11.741
+  },
+  {
+    "idx": 3986,
+    "duplicated": "True",
+    "uf": "RO",
+    "coduf": 11,
+    "codmun": "00254",
+    "name": "Presidente Médici",
+    "população": 18.165
+  },
+  {
+    "idx": 3987,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 9239,
+    "name": "Presidente Médici",
+    "população": 7.124
+  },
+  {
+    "idx": 3995,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 11408,
+    "name": "Primavera",
+    "população": 15.231
+  },
+  {
+    "idx": 3996,
+    "duplicated": "True",
+    "uf": "PA",
+    "coduf": 15,
+    "codmun": 6104,
+    "name": "Primavera",
+    "população": 10.889
+  },
+  {
+    "idx": 4032,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 25808,
+    "name": "Queimadas",
+    "população": 25.428
+  },
+  {
+    "idx": 4033,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 12507,
+    "name": "Queimadas",
+    "população": 44.388
+  },
+  {
+    "idx": 4051,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 11533,
+    "name": "Quixaba",
+    "população": 6.796
+  },
+  {
+    "idx": 4052,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 12606,
+    "name": "Quixaba",
+    "população": 2.009
+  },
+  {
+    "idx": 4076,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 11603,
+    "name": "Redenção",
+    "população": 29.238
+  },
+  {
+    "idx": 4077,
+    "duplicated": "True",
+    "uf": "PA",
+    "coduf": 15,
+    "codmun": 6138,
+    "name": "Redenção",
+    "população": 86.326
+  },
+  {
+    "idx": 4100,
+    "duplicated": "True",
+    "uf": "TO",
+    "coduf": 17,
+    "codmun": 18550,
+    "name": "Riachinho",
+    "população": 4.723
+  },
+  {
+    "idx": 4101,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 54457,
+    "name": "Riachinho",
+    "população": 8.132
+  },
+  {
+    "idx": 4105,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 10801,
+    "name": "Riacho de Santana",
+    "população": 4.194
+  },
+  {
+    "idx": 4106,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 26400,
+    "name": "Riacho de Santana",
+    "população": 35.757
+  },
+  {
+    "idx": 4110,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 10900,
+    "name": "Riachuelo",
+    "população": 8.31
+  },
+  {
+    "idx": 4111,
+    "duplicated": "True",
+    "uf": "SE",
+    "coduf": 28,
+    "codmun": 5901,
+    "name": "Riachuelo",
+    "população": 10.354
+  },
+  {
+    "idx": 4112,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 9502,
+    "name": "Riachão",
+    "população": 20.288
+  },
+  {
+    "idx": 4113,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 12747,
+    "name": "Riachão",
+    "população": 3.65
+  },
+  {
+    "idx": 4154,
+    "duplicated": "True",
+    "uf": "AC",
+    "coduf": 12,
+    "codmun": 401,
+    "name": "Rio Branco",
+    "população": 419.452
+  },
+  {
+    "idx": 4155,
+    "duplicated": "True",
+    "uf": "MT",
+    "coduf": 51,
+    "codmun": 7206,
+    "name": "Rio Branco",
+    "população": 5.147
+  },
+  {
+    "idx": 4160,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 43907,
+    "name": "Rio Claro",
+    "população": 209.548
+  },
+  {
+    "idx": 4161,
+    "duplicated": "True",
+    "uf": "RJ",
+    "coduf": 33,
+    "codmun": 4409,
+    "name": "Rio Claro",
+    "população": 18.677
+  },
+  {
+    "idx": 4174,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 22305,
+    "name": "Rio Negro",
+    "população": 34.645
+  },
+  {
+    "idx": 4175,
+    "duplicated": "True",
+    "uf": "MS",
+    "coduf": 50,
+    "codmun": 7307,
+    "name": "Rio Negro",
+    "população": 4.758
+  },
+  {
+    "idx": 4255,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 27200,
+    "name": "Ruy Barbosa",
+    "população": 30.9
+  },
+  {
+    "idx": 4256,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 11106,
+    "name": "Ruy Barbosa",
+    "população": 3.584
+  },
+  {
+    "idx": 4271,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 12109,
+    "name": "Salgadinho",
+    "população": 11.214
+  },
+  {
+    "idx": 4272,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 13000,
+    "name": "Salgadinho",
+    "população": 3.975
+  },
+  {
+    "idx": 4283,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 15356,
+    "name": "Saltinho",
+    "população": 3.727
+  },
+  {
+    "idx": 4284,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 45159,
+    "name": "Saltinho",
+    "população": 8.498
+  },
+  {
+    "idx": 4312,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 57203,
+    "name": "Santa Bárbara",
+    "população": 31.873
+  },
+  {
+    "idx": 4313,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 27507,
+    "name": "Santa Bárbara",
+    "população": 20.971
+  },
+  {
+    "idx": 4322,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 15505,
+    "name": "Santa Cecília",
+    "população": 17.004
+  },
+  {
+    "idx": 4323,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 13158,
+    "name": "Santa Cecília",
+    "população": 6.526
+  },
+  {
+    "idx": 4328,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 11205,
+    "name": "Santa Cruz",
+    "população": 40.295
+  },
+  {
+    "idx": 4329,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 13208,
+    "name": "Santa Cruz",
+    "população": 6.579
+  },
+  {
+    "idx": 4330,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 12455,
+    "name": "Santa Cruz",
+    "população": 15.713
+  },
+  {
+    "idx": 4351,
+    "duplicated": "True",
+    "uf": "PI",
+    "coduf": 22,
+    "codmun": 9203,
+    "name": "Santa Filomena",
+    "população": 6.256
+  },
+  {
+    "idx": 4352,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 12554,
+    "name": "Santa Filomena",
+    "população": 14.645
+  },
+  {
+    "idx": 4360,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 9809,
+    "name": "Santa Helena",
+    "população": 42.829
+  },
+  {
+    "idx": 4361,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 23501,
+    "name": "Santa Helena",
+    "população": 27.036
+  },
+  {
+    "idx": 4362,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 15554,
+    "name": "Santa Helena",
+    "população": 2.178
+  },
+  {
+    "idx": 4363,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 13307,
+    "name": "Santa Helena",
+    "população": 5.853
+  },
+  {
+    "idx": 4366,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 23600,
+    "name": "Santa Inês",
+    "população": 1.568
+  },
+  {
+    "idx": 4367,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 9908,
+    "name": "Santa Inês",
+    "população": 89.927
+  },
+  {
+    "idx": 4368,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 27903,
+    "name": "Santa Inês",
+    "população": 10.583
+  },
+  {
+    "idx": 4369,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 13356,
+    "name": "Santa Inês",
+    "população": 3.591
+  },
+  {
+    "idx": 4370,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 19357,
+    "name": "Santa Isabel",
+    "população": 3.821
+  },
+  {
+    "idx": 4371,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 46801,
+    "name": "Santa Isabel",
+    "população": 58.529
+  },
+  {
+    "idx": 4379,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 10005,
+    "name": "Santa Luzia",
+    "população": 73.105
+  },
+  {
+    "idx": 4380,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 57807,
+    "name": "Santa Luzia",
+    "população": 221.705
+  },
+  {
+    "idx": 4381,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 13406,
+    "name": "Santa Luzia",
+    "população": 15.47
+  },
+  {
+    "idx": 4382,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 28059,
+    "name": "Santa Luzia",
+    "população": 12.308
+  },
+  {
+    "idx": 4388,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 46900,
+    "name": "Santa Lúcia",
+    "população": 8.889
+  },
+  {
+    "idx": 4389,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 23824,
+    "name": "Santa Lúcia",
+    "população": 3.795
+  },
+  {
+    "idx": 4392,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 16907,
+    "name": "Santa Maria",
+    "população": 285.159
+  },
+  {
+    "idx": 4393,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 9332,
+    "name": "Santa Maria",
+    "população": 5.689
+  },
+  {
+    "idx": 4413,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 10203,
+    "name": "Santa Rita",
+    "população": 38.732
+  },
+  {
+    "idx": 4414,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 13703,
+    "name": "Santa Rita",
+    "população": 138.093
+  },
+  {
+    "idx": 4432,
+    "duplicated": "True",
+    "uf": "SE",
+    "coduf": 28,
+    "codmun": 6503,
+    "name": "Santa Rosa de Lima",
+    "população": 3.933
+  },
+  {
+    "idx": 4433,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 15604,
+    "name": "Santa Rosa de Lima",
+    "população": 2.151
+  },
+  {
+    "idx": 4446,
+    "duplicated": "True",
+    "uf": "MT",
+    "coduf": 51,
+    "codmun": 7776,
+    "name": "Santa Terezinha",
+    "população": 8.547
+  },
+  {
+    "idx": 4447,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 12802,
+    "name": "Santa Terezinha",
+    "população": 11.914
+  },
+  {
+    "idx": 4448,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 15679,
+    "name": "Santa Terezinha",
+    "população": 8.76
+  },
+  {
+    "idx": 4449,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 28505,
+    "name": "Santa Terezinha",
+    "população": 10.52
+  },
+  {
+    "idx": 4457,
+    "duplicated": "True",
+    "uf": "AP",
+    "coduf": 16,
+    "codmun": 600,
+    "name": "Santana",
+    "população": 124.808
+  },
+  {
+    "idx": 4458,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 28208,
+    "name": "Santana",
+    "população": 26.792
+  },
+  {
+    "idx": 4496,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 13851,
+    "name": "Santo André",
+    "população": 2.496
+  },
+  {
+    "idx": 4497,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 47809,
+    "name": "Santo André",
+    "população": 723.889
+  },
+  {
+    "idx": 4548,
+    "duplicated": "True",
+    "uf": "RJ",
+    "coduf": 33,
+    "codmun": 5406,
+    "name": "Sapucaia",
+    "população": 18.27
+  },
+  {
+    "idx": 4549,
+    "duplicated": "True",
+    "uf": "PA",
+    "coduf": 15,
+    "codmun": 7755,
+    "name": "Sapucaia",
+    "população": 6.088
+  },
+  {
+    "idx": 4554,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 26256,
+    "name": "Sarandi",
+    "população": 98.888
+  },
+  {
+    "idx": 4555,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 20107,
+    "name": "Sarandi",
+    "população": 25.024
+  },
+  {
+    "idx": 4638,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 30501,
+    "name": "Serrinha",
+    "população": 81.693
+  },
+  {
+    "idx": 4639,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 13508,
+    "name": "Serrinha",
+    "população": 6.128
+  },
+  {
+    "idx": 4649,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 15930,
+    "name": "Sertãozinho",
+    "população": 5.152
+  },
+  {
+    "idx": 4650,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 51702,
+    "name": "Sertãozinho",
+    "população": 128.432
+  },
+  {
+    "idx": 4682,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 30774,
+    "name": "Sobradinho",
+    "população": 23.274
+  },
+  {
+    "idx": 4683,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 20701,
+    "name": "Sobradinho",
+    "população": 15.041
+  },
+  {
+    "idx": 4689,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 16102,
+    "name": "Soledade",
+    "população": 15.211
+  },
+  {
+    "idx": 4690,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 20800,
+    "name": "Soledade",
+    "população": 31.067
+  },
+  {
+    "idx": 4722,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 10500,
+    "name": "São Bento",
+    "população": 45.989
+  },
+  {
+    "idx": 4723,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 13901,
+    "name": "São Bento",
+    "população": 34.65
+  },
+  {
+    "idx": 4742,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 16008,
+    "name": "São Carlos",
+    "população": 11.456
+  },
+  {
+    "idx": 4743,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 48906,
+    "name": "São Carlos",
+    "população": 256.915
+  },
+  {
+    "idx": 4748,
+    "duplicated": "True",
+    "uf": "SE",
+    "coduf": 28,
+    "codmun": 6800,
+    "name": "São Domingos",
+    "população": 11.276
+  },
+  {
+    "idx": 4749,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 13968,
+    "name": "São Domingos",
+    "população": 3.119
+  },
+  {
+    "idx": 4750,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 19803,
+    "name": "São Domingos",
+    "população": 13.305
+  },
+  {
+    "idx": 4751,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 16107,
+    "name": "São Domingos",
+    "população": 9.422
+  },
+  {
+    "idx": 4752,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 28950,
+    "name": "São Domingos",
+    "população": 9.085
+  },
+  {
+    "idx": 4766,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 49003,
+    "name": "São Francisco",
+    "população": 2.813
+  },
+  {
+    "idx": 4767,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 61106,
+    "name": "São Francisco",
+    "população": 56.625
+  },
+  {
+    "idx": 4768,
+    "duplicated": "True",
+    "uf": "SE",
+    "coduf": 28,
+    "codmun": 6909,
+    "name": "São Francisco",
+    "população": 3.837
+  },
+  {
+    "idx": 4769,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 13984,
+    "name": "São Francisco",
+    "população": 3.377
+  },
+  {
+    "idx": 4774,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 61205,
+    "name": "São Francisco de Paula",
+    "população": 6.512
+  },
+  {
+    "idx": 4775,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 18200,
+    "name": "São Francisco de Paula",
+    "população": 21.871
+  },
+  {
+    "idx": 4794,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 18309,
+    "name": "São Gabriel",
+    "população": 62.187
+  },
+  {
+    "idx": 4795,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 29255,
+    "name": "São Gabriel",
+    "população": 18.785
+  },
+  {
+    "idx": 4805,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 12005,
+    "name": "São Gonçalo do Amarante",
+    "população": 104.919
+  },
+  {
+    "idx": 4806,
+    "duplicated": "True",
+    "uf": "CE",
+    "coduf": 23,
+    "codmun": 12403,
+    "name": "São Gonçalo do Amarante",
+    "população": 49.306
+  },
+  {
+    "idx": 4855,
+    "duplicated": "True",
+    "uf": "PI",
+    "coduf": 22,
+    "codmun": 10052,
+    "name": "São José do Divino",
+    "população": 5.361
+  },
+  {
+    "idx": 4856,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 63300,
+    "name": "São José do Divino",
+    "população": 3.851
+  },
+  {
+    "idx": 4885,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 13206,
+    "name": "São João",
+    "população": 23.002
+  },
+  {
+    "idx": 4886,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 24806,
+    "name": "São João",
+    "população": 10.122
+  },
+  {
+    "idx": 4887,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 11003,
+    "name": "São João Batista",
+    "população": 20.736
+  },
+  {
+    "idx": 4888,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 16305,
+    "name": "São João Batista",
+    "população": 39.719
+  },
+  {
+    "idx": 4925,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 11052,
+    "name": "São João do Paraíso",
+    "população": 11.207
+  },
+  {
+    "idx": 4926,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 62708,
+    "name": "São João do Paraíso",
+    "população": 23.797
+  },
+  {
+    "idx": 4960,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 19109,
+    "name": "São Martinho",
+    "população": 5.336
+  },
+  {
+    "idx": 4961,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 17105,
+    "name": "São Martinho",
+    "população": 3.162
+  },
+  {
+    "idx": 4993,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 12708,
+    "name": "São Pedro",
+    "população": 5.889
+  },
+  {
+    "idx": 4994,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 50407,
+    "name": "São Pedro",
+    "população": 36.298
+  },
+  {
+    "idx": 5022,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 50704,
+    "name": "São Sebastião",
+    "população": 91.637
+  },
+  {
+    "idx": 5023,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 8808,
+    "name": "São Sebastião",
+    "população": 34.424
+  },
+  {
+    "idx": 5043,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 50902,
+    "name": "São Simão",
+    "população": 15.446
+  },
+  {
+    "idx": 5044,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 20405,
+    "name": "São Simão",
+    "população": 21.318
+  },
+  {
+    "idx": 5047,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 26108,
+    "name": "São Tomé",
+    "população": 5.778
+  },
+  {
+    "idx": 5048,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 12906,
+    "name": "São Tomé",
+    "população": 11.051
+  },
+  {
+    "idx": 5055,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 51009,
+    "name": "São Vicente",
+    "população": 370.839
+  },
+  {
+    "idx": 5056,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 13003,
+    "name": "São Vicente",
+    "população": 6.476
+  },
+  {
+    "idx": 5063,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 13706,
+    "name": "Sítio Novo",
+    "população": 5.6
+  },
+  {
+    "idx": 5064,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 11805,
+    "name": "Sítio Novo",
+    "população": 18.237
+  },
+  {
+    "idx": 5071,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 52700,
+    "name": "Tabatinga",
+    "população": 16.787
+  },
+  {
+    "idx": 5072,
+    "duplicated": "True",
+    "uf": "AM",
+    "coduf": 13,
+    "codmun": 4062,
+    "name": "Tabatinga",
+    "população": "68.502(10)"
+  },
+  {
+    "idx": 5103,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 14001,
+    "name": "Tangará",
+    "população": 16.008
+  },
+  {
+    "idx": 5104,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 17907,
+    "name": "Tangará",
+    "população": 8.648
+  },
+  {
+    "idx": 5114,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 26801,
+    "name": "Tapejara",
+    "população": 16.48
+  },
+  {
+    "idx": 5115,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 20909,
+    "name": "Tapejara",
+    "população": 24.973
+  },
+  {
+    "idx": 5117,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 16508,
+    "name": "Taperoá",
+    "população": 15.505
+  },
+  {
+    "idx": 5118,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 31202,
+    "name": "Taperoá",
+    "população": 21.421
+  },
+  {
+    "idx": 5120,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 68101,
+    "name": "Tapira",
+    "população": 4.89
+  },
+  {
+    "idx": 5121,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 26900,
+    "name": "Tapira",
+    "população": 5.452
+  },
+  {
+    "idx": 5124,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 68200,
+    "name": "Tapiraí",
+    "população": 1.869
+  },
+  {
+    "idx": 5125,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 53500,
+    "name": "Tapiraí",
+    "população": 7.725
+  },
+  {
+    "idx": 5149,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 16607,
+    "name": "Tavares",
+    "população": 14.791
+  },
+  {
+    "idx": 5150,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 21352,
+    "name": "Tavares",
+    "população": 5.484
+  },
+  {
+    "idx": 5165,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 54300,
+    "name": "Teodoro Sampaio",
+    "população": 23.395
+  },
+  {
+    "idx": 5166,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 31400,
+    "name": "Teodoro Sampaio",
+    "população": 7.296
+  },
+  {
+    "idx": 5178,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 31707,
+    "name": "Terra Nova",
+    "população": 13.018
+  },
+  {
+    "idx": 5179,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 15201,
+    "name": "Terra Nova",
+    "população": 10.314
+  },
+  {
+    "idx": 5182,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 27403,
+    "name": "Terra Roxa",
+    "população": 17.562
+  },
+  {
+    "idx": 5183,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 54409,
+    "name": "Terra Roxa",
+    "população": 9.502
+  },
+  {
+    "idx": 5216,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 69109,
+    "name": "Toledo",
+    "população": 6.336
+  },
+  {
+    "idx": 5217,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 27700,
+    "name": "Toledo",
+    "população": 144.601
+  },
+  {
+    "idx": 5244,
+    "duplicated": "True",
+    "uf": "GO",
+    "coduf": 52,
+    "codmun": 21403,
+    "name": "Trindade",
+    "população": 132.006
+  },
+  {
+    "idx": 5245,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 15607,
+    "name": "Trindade",
+    "população": 31.103
+  },
+  {
+    "idx": 5247,
+    "duplicated": "True",
+    "uf": "PE",
+    "coduf": 26,
+    "codmun": 15706,
+    "name": "Triunfo",
+    "população": 15.232
+  },
+  {
+    "idx": 5248,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 22004,
+    "name": "Triunfo",
+    "população": 30.159
+  },
+  {
+    "idx": 5249,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 16805,
+    "name": "Triunfo",
+    "população": 9.473
+  },
+  {
+    "idx": 5298,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 69703,
+    "name": "Turmalina",
+    "população": 20.28
+  },
+  {
+    "idx": 5299,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 55307,
+    "name": "Turmalina",
+    "população": 1.667
+  },
+  {
+    "idx": 5303,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 18806,
+    "name": "Turvo",
+    "população": 13.08
+  },
+  {
+    "idx": 5304,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 27965,
+    "name": "Turvo",
+    "população": 12.977
+  },
+  {
+    "idx": 5385,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 32903,
+    "name": "Valença",
+    "população": 97.873
+  },
+  {
+    "idx": 5386,
+    "duplicated": "True",
+    "uf": "RJ",
+    "coduf": 33,
+    "codmun": 6107,
+    "name": "Valença",
+    "população": 77.202
+  },
+  {
+    "idx": 5392,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 19150,
+    "name": "Vargem",
+    "população": 2.387
+  },
+  {
+    "idx": 5393,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 56354,
+    "name": "Vargem",
+    "população": 10.842
+  },
+  {
+    "idx": 5396,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 70602,
+    "name": "Vargem Bonita",
+    "população": 2.143
+  },
+  {
+    "idx": 5397,
+    "duplicated": "True",
+    "uf": "SC",
+    "coduf": 42,
+    "codmun": 19176,
+    "name": "Vargem Bonita",
+    "população": 4.411
+  },
+  {
+    "idx": 5418,
+    "duplicated": "True",
+    "uf": "BA",
+    "coduf": 29,
+    "codmun": 33208,
+    "name": "Vera Cruz",
+    "população": "44.185(19)"
+  },
+  {
+    "idx": 5419,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 14803,
+    "name": "Vera Cruz",
+    "população": 12.789
+  },
+  {
+    "idx": 5420,
+    "duplicated": "True",
+    "uf": "RS",
+    "coduf": 43,
+    "codmun": 22707,
+    "name": "Vera Cruz",
+    "população": 27.325
+  },
+  {
+    "idx": 5421,
+    "duplicated": "True",
+    "uf": "SP",
+    "coduf": 35,
+    "codmun": 56602,
+    "name": "Vera Cruz",
+    "população": 10.804
+  },
+  {
+    "idx": 5438,
+    "duplicated": "True",
+    "uf": "MA",
+    "coduf": 21,
+    "codmun": 12803,
+    "name": "Viana",
+    "população": 52.852
+  },
+  {
+    "idx": 5439,
+    "duplicated": "True",
+    "uf": "ES",
+    "coduf": 32,
+    "codmun": 5101,
+    "name": "Viana",
+    "população": 80.735
+  },
+  {
+    "idx": 5491,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 9400,
+    "name": "Viçosa",
+    "população": 25.655
+  },
+  {
+    "idx": 5492,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 71303,
+    "name": "Viçosa",
+    "população": 79.91
+  },
+  {
+    "idx": 5493,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 14902,
+    "name": "Viçosa",
+    "população": 1.731
+  },
+  {
+    "idx": 5499,
+    "duplicated": "True",
+    "uf": "RN",
+    "coduf": 24,
+    "codmun": 14704,
+    "name": "Várzea",
+    "população": 5.529
+  },
+  {
+    "idx": 5500,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 17100,
+    "name": "Várzea",
+    "população": 2.87
+  },
+  {
+    "idx": 5503,
+    "duplicated": "True",
+    "uf": "MT",
+    "coduf": 51,
+    "codmun": 8402,
+    "name": "Várzea Grande",
+    "população": 290.383
+  },
+  {
+    "idx": 5504,
+    "duplicated": "True",
+    "uf": "PI",
+    "coduf": 22,
+    "codmun": 11407,
+    "name": "Várzea Grande",
+    "população": 4.382
+  },
+  {
+    "idx": 5514,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 72202,
+    "name": "Wenceslau Braz",
+    "população": 2.543
+  },
+  {
+    "idx": 5515,
+    "duplicated": "True",
+    "uf": "PR",
+    "coduf": 41,
+    "codmun": 28500,
+    "name": "Wenceslau Braz",
+    "população": 19.358
+  },
+  {
+    "idx": 5534,
+    "duplicated": "True",
+    "uf": "MG",
+    "coduf": 31,
+    "codmun": 609,
+    "name": "Água Boa",
+    "população": 13.319
+  },
+  {
+    "idx": 5535,
+    "duplicated": "True",
+    "uf": "MT",
+    "coduf": 51,
+    "codmun": 201,
+    "name": "Água Boa",
+    "população": 26.679
+  },
+  {
+    "idx": 5536,
+    "duplicated": "True",
+    "uf": "AL",
+    "coduf": 27,
+    "codmun": 102,
+    "name": "Água Branca",
+    "população": 20.263
+  },
+  {
+    "idx": 5537,
+    "duplicated": "True",
+    "uf": "PB",
+    "coduf": 25,
+    "codmun": 106,
+    "name": "Água Branca",
+    "população": 10.375
+  },
+  {
+    "idx": 5538,
+    "duplicated": "True",
+    "uf": "PI",
+    "coduf": 22,
+    "codmun": 202,
+    "name": "Água Branca",
+    "população": 17.525
+  }
+]
